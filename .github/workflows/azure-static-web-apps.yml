@@ -51,7 +51,7 @@ jobs:
           app_location: "artifacts/traklift"
           skip_app_build: true
           api_location: ""
-          output_location: "dist"
+          output_location: "dist/public"
           
 
   close_pull_request_job:
